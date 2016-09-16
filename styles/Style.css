@@ -1,0 +1,70 @@
+a:link {
+	text-decoration: none;
+	color: #333;
+}
+a:visited {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	text-decoration: none;
+	color: #B18135;
+}
+.navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 23px;
+	font-weight: lighter;
+	color: #333;
+	text-decoration: none;
+	text-align: right;
+}
+a:active {
+	text-decoration: none;
+	color: #333;
+}
+
+.StageCopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #999;
+	text-align: center;
+}
+.main-text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #333;
+	text-align: left;
+	padding-top: 0;
+	padding-right: 15px;
+	padding-bottom: 0;
+	padding-left: 20px;
+}
+.company-sig {
+	font-weight: lighter;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+.OfferTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: lighter;
+	color: #A57230;
+}
+.OfferPrice {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: lighter;
+	color: #493615;
+}
+.toolslink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}

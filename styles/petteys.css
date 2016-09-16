@@ -1,0 +1,48 @@
+.row > * > img {
+	
+	display: inline-block;
+	
+}
+
+.contain {
+	
+	max-width: 800px;
+	
+}
+
+body {
+	
+	color: #333;
+	background: url(../images/PetteyStrip.png);
+	padding: 1em 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+}
+
+main {
+	
+	background-color: rgb(204, 204, 204);
+	
+}
+
+.header-and-banner img {
+	
+	display: block;
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #333;}
+}
+
+content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: lighter;
+	color: #333;}
+}
